@@ -1,6 +1,6 @@
 <h1>Shopify Free Sample System</h1>
 <p>This project implements a <strong>Free Sample Product system</strong> in Shopify with strict cart validation.<br>
-<strong>For More Detail check my <a href="https://www.linkedin.com/posts/arun-sharmadev_free-sample-product-system-in-shopify-ugcPost-7457491084336848896-YNBi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABox1gsBoQ0sTWNME0hbr8qOwoj87ME6-BE">Linked Post</a></strong></p>
+<strong>For More Detail check my <a href="https://www.linkedin.com/posts/arun-sharmadev_free-sample-product-system-in-shopify-ugcPost-7457491084336848896-YNBi?utm_source=share&utm_medium=member_desktop&rcm=ACoAABox1gsBoQ0sTWNME0hbr8qOwoj87ME6-BE">Linkedin Post</a></strong></p>
 <h2>🚀 Features</h2>
 <ul data-spread="false">
   <li>Add free sample via product page button</li>
